@@ -10,7 +10,7 @@ const useStyless = makeStyles((theme) => ({
     width: "800px",
     "@media (max-width: 767px)": {
       width: "100%",
-      height: "350px",
+      height: "352px",
     },
     height: "600px",
     backgroundColor: "#0e0d0d28",
